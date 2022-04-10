@@ -1,0 +1,29 @@
+
+/*stylesheet*/
+
+* {
+    background: #ece7e1;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+
+.food {
+    height: 350px;
+    width: auto;
+}
+
+h1 {
+    background-color: #687562;
+    color: #d9cec8;
+    font-size: 50px;
+}
+
+h2 {
+    background-color: #687562;
+    color: #d9cec8;
+    font-size: 20px;
+}
+
+body {
+    color: #2a2e28;
+}
